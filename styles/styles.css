@@ -13,6 +13,12 @@ body{
 	background: #f5f6fa;
 }
 
+.info {
+	background-color: #0c7db1;
+}
+
+
+
 .wrapper .sidebar{
 	background: rgb(5, 68, 104);
 	position: fixed;
@@ -116,3 +122,4 @@ body.active .wrapper .section{
 	margin-left: 0;
 	width: 100%;
 }
+
